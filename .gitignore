@@ -127,3 +127,28 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea
+
+# Figures
+fig/
+
+# Original code from Juechems et al.
+addcode.m
+Figures_Juechems_et_al_2019.m
+VBA-toolbox-master/
+code/
+data/
+README_PT_optimality.md
+/GP Showdown.ipynb
+
+# GPy library
+GPy/
+
+# Backup folders
+bkp/
+backup/
+
+# Tuto gaussian process in pymc3
+gp_regression/
